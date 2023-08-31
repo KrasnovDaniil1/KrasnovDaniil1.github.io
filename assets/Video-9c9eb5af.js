@@ -1,0 +1,1 @@
+import{_,o as e,c as o,F as a,d as r}from"./index-16ccd824.js";const c={props:{allVideo:{type:Array}},setup(){}},d={class:"video_block"},i=["innerHTML"];function l(p,u,s,f,v,m){return e(),o("div",d,[(e(!0),o(a,null,r(s.allVideo,(t,n)=>(e(),o("div",{class:"video",innerHTML:t,key:n},null,8,i))),128))])}const V=_(c,[["render",l],["__scopeId","data-v-e117a0f0"]]);export{V};
